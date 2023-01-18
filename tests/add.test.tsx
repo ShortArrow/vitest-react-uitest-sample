@@ -1,5 +1,4 @@
 import Add from "../src/add";
-import { describe, it, expect } from "vitest";
 
 describe("test--1", () => {
   it("tset", () => {
